@@ -1,8 +1,9 @@
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 
 export const Navigation = (props) => {
-  const navigate = useNavigate();
+  const navigate = useHistory();
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -30,11 +31,7 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a
-                href="#about"
-                onClick={() => navigate("/login")}
-                className="page-scroll"
-              >
+              <a href="#about" className="page-scroll">
                 About
               </a>
             </li>
