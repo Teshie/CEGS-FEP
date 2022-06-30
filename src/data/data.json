@@ -1,0 +1,67 @@
+{
+  "Header": {
+    "title": "E-Services System",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fha-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cahrt-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-clgoud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Contact": {
+    "address": "N'djamena, Chad ",
+    "phone": "+251921951592",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "instagram":"instagram.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Single Sign-on",
+      "text": "One account is all you need, a single username and password to get you into everything Government."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Convenience",
+      "text": "Pay from anywhere using mobile money, Debit and Credit Cards, and online banking from local banks."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Online Services",
+      "text": "Receive email and SMS notification every time your application has progressed."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Online Services",
+      "text": "Fill online application forms, submit then receive your permit in PDF format from wherever you are."
+    }
+  ]
+}
